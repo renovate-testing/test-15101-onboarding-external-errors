@@ -1,0 +1,2 @@
+FROM doesnotexist
+RUN something
